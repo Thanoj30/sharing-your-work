@@ -122,7 +122,7 @@ JWT_EXPIRES_IN=7d
 Client environment variables:
 
 ```env
-VITE_API_BASE_URL=http://localhost:5000/api
+VITE_API_BASE_URL=http://localhost:5001/api
 ```
 
 ## Development Commands

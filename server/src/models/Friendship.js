@@ -28,4 +28,3 @@ friendshipSchema.index({ requester: 1, recipient: 1 }, { unique: true });
 const Friendship = mongoose.model('Friendship', friendshipSchema);
 
 export default Friendship;
-
